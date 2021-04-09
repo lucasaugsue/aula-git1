@@ -73,3 +73,6 @@ com esse comando consigo linkar os files para o remoto
 
 # git add .
 adiciona todos os files para o remoto
+
+# git config credential.helper store
+nao precisa colocar user e password toda hora
